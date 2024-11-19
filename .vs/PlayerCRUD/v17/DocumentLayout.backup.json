@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\.netframework\\playercrud\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\requestresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:requestresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\context\\playercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:context\\playercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\models\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:models\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\migrations\\202411131039007_intitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA0F6E-87E8-4498-8D2D-FD2C9489196A}|PlayerCRUD.csproj|solutionrelative:migrations\\202411131039007_intitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-13T11:41:00.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Controllers\\PlayerController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:55:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\RequestResponse\\Response.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\RequestResponse\\Response.cs",
+              "RelativeToolTip": "RequestResponse\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:44:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202411131039007_Intitial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Migrations\\202411131039007_Intitial.cs",
+              "RelativeDocumentMoniker": "Migrations\\202411131039007_Intitial.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Migrations\\202411131039007_Intitial.cs",
+              "RelativeToolTip": "Migrations\\202411131039007_Intitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:39:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:38:30.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Context\\PlayerContext.cs",
+              "RelativeDocumentMoniker": "Context\\PlayerContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Context\\PlayerContext.cs",
+              "RelativeToolTip": "Context\\PlayerContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:36:03.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Models\\PlayerEntity.cs",
+              "RelativeDocumentMoniker": "Models\\PlayerEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\.NetFramework\\PlayerCRUD\\Models\\PlayerEntity.cs",
+              "RelativeToolTip": "Models\\PlayerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:32:41.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
